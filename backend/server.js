@@ -14,7 +14,7 @@ const app = express();
 
 const allowedOrigins = [
   "http://localhost:5173",
-  "https://portfolio-tau-lilac-1lc4b3ndzz.vercel.app"
+  "https://portfolio-8gz11as7r-sonu-kumars-projects-2726cdd2.vercel.app/"
 ];
 
 app.use(cors({
