@@ -102,7 +102,7 @@ const Contact = () => {
 
             <motion.a
               whileHover={{ x: 6 }}
-              href="http://www.linkedin.com/in/sonu-kumar-5b8722282"
+              href="www.linkedin.com/in/sonu-kumar-74303b40b"
               target="_blank"
               className="flex items-center gap-4 p-4 rounded-xl border border-gray-800 bg-gray-900/40 backdrop-blur-sm"
             >
